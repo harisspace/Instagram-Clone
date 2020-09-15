@@ -1,0 +1,12 @@
+.imageuploud {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 10px auto;
+    background-color: white;
+    border-top: 1px solid lightgrey;
+}
+
+.imageuploud__progress {
+    width: 100%;
+}
